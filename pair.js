@@ -60,13 +60,13 @@ router.get('/', async (req, res) => {
 ╭─❖ 𓆩 🦋 𓆪 ❖─╮
  𝗠𝗨𝗟𝗧𝗜 𝗗𝗘𝗩𝗜𝗖𝗘
 ╰─❖ 𓆩 🦋 𓆪 ❖─╯  
-ɴᴊᴀʙᴜʟᴏ ᴊʙ ᴅᴇᴠɪᴄᴇ sᴜᴄᴄᴇssғᴜʟ ᴄᴏɴɴᴇᴄᴛᴇᴅ
+ 𝚃𝙸𝙼𝙽𝙰𝚂𝙰 ᴅᴇᴠɪᴄᴇ sᴜᴄᴄᴇssғᴜʟ ᴄᴏɴɴᴇᴄᴛᴇᴅ
 
 ════════════════════
 Developer Resources
-GitHub link: github.com/NjabuloJ/VW-GOLF
-GitHub link: github.com/NjabuloJ/Njabulo-Jb
-Channel link: https://shorturl.at/q8ZuS
+GitHub link: https://github.com/Next5x/VW-GOLF
+GitHub link: https://github.com/Next5x/TIMNASA_TMD1
+Channel link: https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31
 ╭─❖••• 𓆩  𓆪••• ❖─╮
    *Don't forget to*
 *star & fork the repo!*
@@ -76,7 +76,7 @@ Channel link: https://shorturl.at/q8ZuS
 ═════════
 ═════════
 *l HELP YOU*
-💬 https://wa.me/message/5YM57LOXVA4BC1
+💬 https://wa.me/255784766591
 ════════════════════`
  await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id,{text:GIFTED_MD_TEXT},{quoted:session})
  
