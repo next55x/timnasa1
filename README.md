@@ -1,3 +1,2 @@
-# fana-njabulo
+# timnasa1
 
-🚧🚨am sorry don't do risk my friend you loss you account GitHub 🚨🚧
